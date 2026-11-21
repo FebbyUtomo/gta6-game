@@ -1,0 +1,5 @@
+# Build output from `node main.ts` (regenerated, never part of the entry).
+out/
+out2/
+node_modules/
+.DS_Store
